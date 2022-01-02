@@ -168,6 +168,12 @@
         <ActiveTab>0</ActiveTab>
         <Tab>
           <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>1</Direction>
+                <Function>13</Function>
+              </Sorting>
+            </Sortings>
             <History>
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
@@ -177,7 +183,7 @@
               </Entry>
             </History>
             <ColumnsView>
-              <ColumnsSet>Default</ColumnsSet>
+              <ColumnsSet>Windows</ColumnsSet>
             </ColumnsView>
           </FileView>
         </Tab>
@@ -195,13 +201,13 @@
               </Entry>
             </History>
             <ColumnsView>
-              <ColumnsSet>Default</ColumnsSet>
+              <ColumnsSet>Windows</ColumnsSet>
             </ColumnsView>
           </FileView>
         </Tab>
       </Right>
     </OpenedTabs>
-    <Options>54033</Options>
+    <Options>49939</Options>
     <CharacterLimit>32</CharacterLimit>
     <Position>0</Position>
     <ActionOnDoubleClick>2</ActionOnDoubleClick>
@@ -211,7 +217,7 @@
     <FolderTabs Save="True"/>
   </Configuration>
   <Language>
-    <POFileName>doublecmd.ch.po</POFileName>
+    <POFileName>doublecmd.zh_CN.po</POFileName>
   </Language>
   <Behaviours>
     <GoToRoot>False</GoToRoot>
@@ -480,7 +486,7 @@
     <WipePassNumber>1</WipePassNumber>
     <DropReadOnlyFlag>False</DropReadOnlyFlag>
     <ProcessComments>False</ProcessComments>
-    <RenameSelOnlyName>False</RenameSelOnlyName>
+    <RenameSelOnlyName>True</RenameSelOnlyName>
     <ShowCopyTabSelectPanel>False</ShowCopyTabSelectPanel>
     <UseTrash>True</UseTrash>
     <SkipFileOpError>False</SkipFileOpError>
@@ -555,7 +561,7 @@
     <GridHorzLine>False</GridHorzLine>
     <ShowWarningMessages>True</ShowWarningMessages>
     <SpaceMovesDown>False</SpaceMovesDown>
-    <DirBrackets>True</DirBrackets>
+    <DirBrackets>False</DirBrackets>
     <InplaceRename>False</InplaceRename>
     <InplaceRenameButton>True</InplaceRenameButton>
     <DblClickToParent>False</DblClickToParent>
@@ -771,7 +777,7 @@
     <TCToolbarPath>C:\Users\ljqic\AppData\Roaming\GHISLER\</TCToolbarPath>
   </TCSection>
   <SearchTemplates/>
-  <ColumnsSets DefaultTitleHash="540805403">
+  <ColumnsSets DefaultTitleHash="4226688076">
     <ColumnsSet UseFrameCursor="False">
       <Name>Default</Name>
       <CustomView>False</CustomView>
@@ -782,7 +788,7 @@
       </CursorBorder>
       <Columns>
         <Column>
-          <Title>Name</Title>
+          <Title>名称</Title>
           <FuncString>[DC().GETFILENAMENOEXT{}]</FuncString>
           <Width>250</Width>
           <Align>0</Align>
@@ -805,7 +811,7 @@
           <Overcolor>True</Overcolor>
         </Column>
         <Column>
-          <Title>Ext</Title>
+          <Title>扩展名</Title>
           <FuncString>[DC().GETFILEEXT{}]</FuncString>
           <Width>50</Width>
           <Align>0</Align>
@@ -828,7 +834,7 @@
           <Overcolor>True</Overcolor>
         </Column>
         <Column>
-          <Title>Size</Title>
+          <Title>大小</Title>
           <FuncString>[DC().GETFILESIZE{}]</FuncString>
           <Width>70</Width>
           <Align>1</Align>
@@ -851,7 +857,7 @@
           <Overcolor>True</Overcolor>
         </Column>
         <Column>
-          <Title>Date</Title>
+          <Title>日期</Title>
           <FuncString>[DC().GETFILETIME{}]</FuncString>
           <Width>140</Width>
           <Align>1</Align>
@@ -874,7 +880,7 @@
           <Overcolor>True</Overcolor>
         </Column>
         <Column>
-          <Title>Attr</Title>
+          <Title>属性</Title>
           <FuncString>[DC().GETFILEATTR{}]</FuncString>
           <Width>100</Width>
           <Align>0</Align>
@@ -892,6 +898,109 @@
           <CursorText>-2147483634</CursorText>
           <InactiveCursorColor>-2147483645</InactiveCursorColor>
           <InactiveMarkColor>128</InactiveMarkColor>
+          <UseInvertedSelection>False</UseInvertedSelection>
+          <UseInactiveSelColor>False</UseInactiveSelColor>
+          <Overcolor>True</Overcolor>
+        </Column>
+      </Columns>
+    </ColumnsSet>
+    <ColumnsSet UseFrameCursor="False">
+      <Name>Windows</Name>
+      <CustomView>False</CustomView>
+      <FileSystem>&lt;General&gt;</FileSystem>
+      <PixelsPerInch>168</PixelsPerInch>
+      <CursorBorder Enabled="False">
+        <Color>-2147483635</Color>
+      </CursorBorder>
+      <Columns>
+        <Column>
+          <Title>名称</Title>
+          <FuncString>[DC().GETFILENAMENOEXT{}]</FuncString>
+          <Width>501</Width>
+          <Align>0</Align>
+          <Font>
+            <Name>default</Name>
+            <Size>10</Size>
+            <Style>1</Style>
+            <Quality>0</Quality>
+          </Font>
+          <TextColor>-2147483640</TextColor>
+          <Background>-2147483643</Background>
+          <Background2>-2147483643</Background2>
+          <MarkColor>255</MarkColor>
+          <CursorColor>-2147483635</CursorColor>
+          <CursorText>-2147483634</CursorText>
+          <InactiveCursorColor>-2147483645</InactiveCursorColor>
+          <InactiveMarkColor>255</InactiveMarkColor>
+          <UseInvertedSelection>False</UseInvertedSelection>
+          <UseInactiveSelColor>False</UseInactiveSelColor>
+          <Overcolor>True</Overcolor>
+        </Column>
+        <Column>
+          <Title>日期</Title>
+          <FuncString>[DC().GETFILETIME{}]</FuncString>
+          <Width>738</Width>
+          <Align>0</Align>
+          <Font>
+            <Name>default</Name>
+            <Size>10</Size>
+            <Style>1</Style>
+            <Quality>0</Quality>
+          </Font>
+          <TextColor>-2147483640</TextColor>
+          <Background>-2147483643</Background>
+          <Background2>-2147483643</Background2>
+          <MarkColor>255</MarkColor>
+          <CursorColor>-2147483635</CursorColor>
+          <CursorText>-2147483634</CursorText>
+          <InactiveCursorColor>-2147483645</InactiveCursorColor>
+          <InactiveMarkColor>255</InactiveMarkColor>
+          <UseInvertedSelection>False</UseInvertedSelection>
+          <UseInactiveSelColor>False</UseInactiveSelColor>
+          <Overcolor>True</Overcolor>
+        </Column>
+        <Column>
+          <Title>类型</Title>
+          <FuncString>[DC().GETFILETYPE{}]</FuncString>
+          <Width>161</Width>
+          <Align>0</Align>
+          <Font>
+            <Name>default</Name>
+            <Size>10</Size>
+            <Style>1</Style>
+            <Quality>0</Quality>
+          </Font>
+          <TextColor>-2147483640</TextColor>
+          <Background>-2147483643</Background>
+          <Background2>-2147483643</Background2>
+          <MarkColor>255</MarkColor>
+          <CursorColor>-2147483635</CursorColor>
+          <CursorText>-2147483634</CursorText>
+          <InactiveCursorColor>-2147483645</InactiveCursorColor>
+          <InactiveMarkColor>255</InactiveMarkColor>
+          <UseInvertedSelection>False</UseInvertedSelection>
+          <UseInactiveSelColor>False</UseInactiveSelColor>
+          <Overcolor>True</Overcolor>
+        </Column>
+        <Column>
+          <Title>大小</Title>
+          <FuncString>[DC().GETFILESIZE{}]</FuncString>
+          <Width>206</Width>
+          <Align>1</Align>
+          <Font>
+            <Name>default</Name>
+            <Size>10</Size>
+            <Style>1</Style>
+            <Quality>0</Quality>
+          </Font>
+          <TextColor>-2147483640</TextColor>
+          <Background>-2147483643</Background>
+          <Background2>-2147483643</Background2>
+          <MarkColor>255</MarkColor>
+          <CursorColor>-2147483635</CursorColor>
+          <CursorText>-2147483634</CursorText>
+          <InactiveCursorColor>-2147483645</InactiveCursorColor>
+          <InactiveMarkColor>255</InactiveMarkColor>
           <UseInvertedSelection>False</UseInvertedSelection>
           <UseInactiveSelColor>False</UseInactiveSelColor>
           <Overcolor>True</Overcolor>
