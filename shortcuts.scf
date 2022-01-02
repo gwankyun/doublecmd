@@ -423,6 +423,10 @@
         <Param>ToolItemID={CA3D423D-0AF7-432E-8569-D830278EFAEA}</Param>
       </Hotkey>
       <Hotkey>
+        <Shortcut>Alt+D</Shortcut>
+        <Command>cm_EditPath</Command>
+      </Hotkey>
+      <Hotkey>
         <Shortcut>Del</Shortcut>
         <Command>cm_Delete</Command>
         <Control>Files Panel</Control>
