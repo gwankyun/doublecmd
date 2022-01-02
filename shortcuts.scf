@@ -284,11 +284,11 @@
         <Command>cm_ViewHistoryNext</Command>
       </Hotkey>
       <Hotkey>
-        <Shortcut>Alt+Shift+Enter</Shortcut>
+        <Shortcut>Shift+Alt+Enter</Shortcut>
         <Command>cm_CountDirContent</Command>
       </Hotkey>
       <Hotkey>
-        <Shortcut>Alt+Shift+F9</Shortcut>
+        <Shortcut>Shift+Alt+F9</Shortcut>
         <Command>cm_TestArchive</Command>
       </Hotkey>
       <Hotkey>
@@ -385,6 +385,42 @@
         <Shortcut>Ctrl+9</Shortcut>
         <Command>cm_OpenDriveByIndex</Command>
         <Param>index=9</Param>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>Alt+BkSp</Shortcut>
+        <Command>cm_ExecuteToolbarItem</Command>
+        <Param>ToolBarID=TfrmOptionsToolbar</Param>
+        <Param>ToolItemID={90750DE9-A16C-45A9-8D1D-4EA838F74738}</Param>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>Alt+E</Shortcut>
+        <Command>cm_ExecuteToolbarItem</Command>
+        <Param>ToolBarID=TfrmOptionsToolbar</Param>
+        <Param>ToolItemID={375F9666-E7D9-4A32-8C26-3394A5070B4E}</Param>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>Alt+U</Shortcut>
+        <Command>cm_ExecuteToolbarItem</Command>
+        <Param>ToolBarID=TfrmOptionsToolbar</Param>
+        <Param>ToolItemID={B2F659F7-BB19-43B9-94E6-C8BC5A5701F2}</Param>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>Alt+W</Shortcut>
+        <Command>cm_ExecuteToolbarItem</Command>
+        <Param>ToolBarID=TfrmOptionsToolbar</Param>
+        <Param>ToolItemID={B00ADD5A-2C55-4FC2-B154-68AB3F6F8121}</Param>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>Alt+S</Shortcut>
+        <Command>cm_ExecuteToolbarItem</Command>
+        <Param>ToolBarID=TfrmOptionsToolbar</Param>
+        <Param>ToolItemID={DF7558EE-74FE-4902-B125-E8ADCA8E17F9}</Param>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>Alt+R</Shortcut>
+        <Command>cm_ExecuteToolbarItem</Command>
+        <Param>ToolBarID=TfrmOptionsToolbar</Param>
+        <Param>ToolItemID={CA3D423D-0AF7-432E-8569-D830278EFAEA}</Param>
       </Hotkey>
       <Hotkey>
         <Shortcut>Del</Shortcut>

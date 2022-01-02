@@ -4,17 +4,17 @@
     <MainToolbar>
       <Row>
         <Command>
-          <ID>{2FA30F9D-853D-4737-A2E0-B0BB597D82F3}</ID>
+          <ID>{7543DFE0-91ED-4BE3-80ED-DF844B021166}</ID>
           <Icon>cm_refresh</Icon>
           <Command>cm_Refresh</Command>
         </Command>
         <Command>
-          <ID>{C5077353-4007-459F-B3B7-74CC9DDF1189}</ID>
+          <ID>{1EF5FA80-B5A3-4F7D-8554-21D4D640F7A8}</ID>
           <Icon>cm_runterm</Icon>
           <Command>cm_RunTerm</Command>
         </Command>
         <Command>
-          <ID>{8AA725BC-7386-471F-9183-5FDD874236ED}</ID>
+          <ID>{DC49DD52-DD0F-4A80-A387-C9EF099E500E}</ID>
           <Icon>cm_options</Icon>
           <Command>cm_Options</Command>
         </Command>
@@ -22,17 +22,17 @@
           <Style>False</Style>
         </Separator>
         <Command>
-          <ID>{D38E9B5F-1066-4972-8416-C444E36CA5AF}</ID>
+          <ID>{2547159F-FD91-4656-9285-BD537D43BB93}</ID>
           <Icon>cm_briefview</Icon>
           <Command>cm_BriefView</Command>
         </Command>
         <Command>
-          <ID>{44E05745-6355-4FD9-A349-4FCCCE8865DC}</ID>
+          <ID>{F137E5FD-17C4-4973-BB69-1A8B153E16D2}</ID>
           <Icon>cm_columnsview</Icon>
           <Command>cm_ColumnsView</Command>
         </Command>
         <Command>
-          <ID>{69866C77-9E2B-48F7-AFEE-562D43F03025}</ID>
+          <ID>{5D1B98B0-AFC1-4AB1-8827-24D86A7801C6}</ID>
           <Icon>cm_thumbnailsview</Icon>
           <Command>cm_ThumbnailsView</Command>
         </Command>
@@ -40,7 +40,7 @@
           <Style>False</Style>
         </Separator>
         <Command>
-          <ID>{9279B17D-742B-4AB0-ABE6-E9B7F94C546B}</ID>
+          <ID>{E9C456CD-6C14-4E63-99F2-0C21F4C6F562}</ID>
           <Icon>cm_flatview</Icon>
           <Command>cm_FlatView</Command>
         </Command>
@@ -48,12 +48,12 @@
           <Style>False</Style>
         </Separator>
         <Command>
-          <ID>{DEAA3182-C8D3-47E5-BCF5-A733C786D33E}</ID>
+          <ID>{8018AEDF-2CEA-4E23-92DD-9D96806AE5BF}</ID>
           <Icon>cm_viewhistoryprev</Icon>
           <Command>cm_ViewHistoryPrev</Command>
         </Command>
         <Command>
-          <ID>{1CD2C727-645E-4375-9279-8689A98A32AF}</ID>
+          <ID>{79E49893-B76D-4A45-8E42-CBCD52B87C1B}</ID>
           <Icon>cm_viewhistorynext</Icon>
           <Command>cm_ViewHistoryNext</Command>
         </Command>
@@ -61,17 +61,17 @@
           <Style>False</Style>
         </Separator>
         <Command>
-          <ID>{69AEACEB-DBAF-4DB8-9F6A-634EC10023F3}</ID>
+          <ID>{37AE0780-C931-4786-86A6-01D34F69CB33}</ID>
           <Icon>cm_markplus</Icon>
           <Command>cm_MarkPlus</Command>
         </Command>
         <Command>
-          <ID>{76366D12-92AD-45BB-B0A8-03996DF4FA22}</ID>
+          <ID>{593476E4-FD96-4805-ADD6-1CB816D0CDB8}</ID>
           <Icon>cm_markminus</Icon>
           <Command>cm_MarkMinus</Command>
         </Command>
         <Command>
-          <ID>{80F5C68C-49D2-4991-B75F-1E40F9E96ABE}</ID>
+          <ID>{D3D2F669-5D4B-4E37-A0A6-CE2A0D7C815F}</ID>
           <Icon>cm_markinvert</Icon>
           <Command>cm_MarkInvert</Command>
         </Command>
@@ -79,12 +79,12 @@
           <Style>False</Style>
         </Separator>
         <Command>
-          <ID>{C4ACFC67-C235-412C-9EBC-9F2DBAE07D5D}</ID>
+          <ID>{06784FB1-E61F-455F-AF53-02A64E8D337E}</ID>
           <Icon>cm_packfiles</Icon>
           <Command>cm_PackFiles</Command>
         </Command>
         <Command>
-          <ID>{62397F4E-D0D9-480E-9080-B35A0CA3A8BD}</ID>
+          <ID>{5356C483-C809-48BE-94B7-7E12878CF380}</ID>
           <Icon>cm_extractfiles</Icon>
           <Command>cm_ExtractFiles</Command>
         </Command>
@@ -92,24 +92,70 @@
           <Style>False</Style>
         </Separator>
         <Command>
-          <ID>{231B3965-D36B-4F57-BDA9-BF473EE71204}</ID>
+          <ID>{FD39D64A-0666-4869-8D18-FCCBF4323EC8}</ID>
           <Icon>cm_search</Icon>
           <Command>cm_Search</Command>
         </Command>
         <Command>
-          <ID>{C6A98310-54AE-4DD7-A104-99C77C89BBE7}</ID>
+          <ID>{D25014B2-4674-44A7-B1BD-135DE6489FA4}</ID>
           <Icon>cm_multirename</Icon>
           <Command>cm_MultiRename</Command>
         </Command>
         <Command>
-          <ID>{ECDFF241-E146-478A-B261-D556E5A00A92}</ID>
+          <ID>{3F63859E-0EA7-4BFD-8EA7-E5D375EFAB0A}</ID>
           <Icon>cm_syncdirs</Icon>
           <Command>cm_SyncDirs</Command>
         </Command>
         <Command>
-          <ID>{C0877848-3587-4343-A3C8-ABD93B14A0DC}</ID>
+          <ID>{AC44188A-8BE9-450C-84E5-A96C923321A4}</ID>
           <Icon>cm_copyfullnamestoclip</Icon>
           <Command>cm_CopyFullNamesToClip</Command>
+        </Command>
+        <Separator>
+          <Style>False</Style>
+        </Separator>
+        <Command>
+          <ID>{90750DE9-A16C-45A9-8D1D-4EA838F74738}</ID>
+          <Icon>cm_changedirtoparent</Icon>
+          <Hint>切换到上层文件夹</Hint>
+          <Command>cm_ExecuteScript</Command>
+          <Param>%double_commander%\ChangeDirParent.lua</Param>
+          <Param>%"0%Ds</Param>
+        </Command>
+        <Command>
+          <ID>{375F9666-E7D9-4A32-8C26-3394A5070B4E}</ID>
+          <Icon>cm_opendirinnewtab</Icon>
+          <Hint>在新标签打开文件夹</Hint>
+          <Command>cm_ExecuteScript</Command>
+          <Param>%double_commander%\OpenDirInNewTab.lua</Param>
+        </Command>
+        <Command>
+          <ID>{B2F659F7-BB19-43B9-94E6-C8BC5A5701F2}</ID>
+          <Icon>cm_exchange</Icon>
+          <Hint>交换面板</Hint>
+          <Command>cm_ExecuteScript</Command>
+          <Param>%double_commander%\Exchange.lua</Param>
+        </Command>
+        <Command>
+          <ID>{B00ADD5A-2C55-4FC2-B154-68AB3F6F8121}</ID>
+          <Icon>cm_dirhotlist</Icon>
+          <Hint>常用文件夹列表</Hint>
+          <Command>cm_ExecuteScript</Command>
+          <Param>%double_commander%\DirHotList.lua</Param>
+        </Command>
+        <Command>
+          <ID>{DF7558EE-74FE-4902-B125-E8ADCA8E17F9}</ID>
+          <Icon>cm_universalsingledirectsort</Icon>
+          <Hint>根据参数进行排序</Hint>
+          <Command>cm_ExecuteScript</Command>
+          <Param>%double_commander%\UniversalSingleDirectSort.lua</Param>
+        </Command>
+        <Command>
+          <ID>{CA3D423D-0AF7-432E-8569-D830278EFAEA}</ID>
+          <Icon>cm_reverseorder</Icon>
+          <Hint>反向排序</Hint>
+          <Command>cm_ExecuteScript</Command>
+          <Param>%double_commander%\ReverseOrder.lua</Param>
         </Command>
       </Row>
     </MainToolbar>
@@ -170,7 +216,7 @@
           <FileView Type="columns">
             <Sortings>
               <Sorting>
-                <Direction>1</Direction>
+                <Direction>2</Direction>
                 <Function>13</Function>
               </Sorting>
             </Sortings>
@@ -178,7 +224,11 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path Filename="..">C:\Program Files\Double Commander\</Path>
+                  <Path Filename="7z.dll">C:\Program Files\Double Commander\</Path>
+                  <Path Filename="test">d:\</Path>
+                  <Path Filename="doc">d:\test\</Path>
+                  <Path Filename="logseq">d:\test\doc\</Path>
+                  <Path Filename="DoubleCommander.rar">d:\test\doc\logseq\</Path>
                 </Paths>
               </Entry>
             </History>
@@ -192,11 +242,23 @@
         <ActiveTab>0</ActiveTab>
         <Tab>
           <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>2</Direction>
+                <Function>7</Function>
+              </Sorting>
+            </Sortings>
             <History>
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path Filename="..">C:\Program Files\Double Commander\</Path>
+                  <Path Filename="7z.dll">C:\Program Files\Double Commander\</Path>
+                  <Path Filename="Users">C:\</Path>
+                  <Path Filename="ljqic">C:\Users\</Path>
+                  <Path Filename="Documents">C:\Users\ljqic\</Path>
+                  <Path Filename="GitHub">C:\Users\ljqic\Documents\</Path>
+                  <Path Filename="DoubleCommander">C:\Users\ljqic\Documents\GitHub\</Path>
+                  <Path Filename="UniversalSingleDirectSort.lua">C:\Users\ljqic\Documents\GitHub\DoubleCommander\</Path>
                 </Paths>
               </Entry>
             </History>
