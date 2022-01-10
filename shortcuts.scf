@@ -140,10 +140,6 @@
         <Command>cm_SortBySize</Command>
       </Hotkey>
       <Hotkey>
-        <Shortcut>Ctrl+Enter</Shortcut>
-        <Command>cm_AddFilenameToCmdLine</Command>
-      </Hotkey>
-      <Hotkey>
         <Shortcut>Ctrl+PgDn</Shortcut>
         <Command>cm_OpenArchive</Command>
       </Hotkey>
@@ -387,13 +383,13 @@
         <Param>index=9</Param>
       </Hotkey>
       <Hotkey>
-        <Shortcut>Alt+BkSp</Shortcut>
+        <Shortcut>Ctrl+BkSp</Shortcut>
         <Command>cm_ExecuteToolbarItem</Command>
         <Param>ToolBarID=TfrmOptionsToolbar</Param>
         <Param>ToolItemID={90750DE9-A16C-45A9-8D1D-4EA838F74738}</Param>
       </Hotkey>
       <Hotkey>
-        <Shortcut>Alt+E</Shortcut>
+        <Shortcut>Ctrl+Enter</Shortcut>
         <Command>cm_ExecuteToolbarItem</Command>
         <Param>ToolBarID=TfrmOptionsToolbar</Param>
         <Param>ToolItemID={375F9666-E7D9-4A32-8C26-3394A5070B4E}</Param>
@@ -425,6 +421,10 @@
       <Hotkey>
         <Shortcut>Alt+D</Shortcut>
         <Command>cm_EditPath</Command>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>Ctrl+Shift+N</Shortcut>
+        <Command>cm_MakeDir</Command>
       </Hotkey>
       <Hotkey>
         <Shortcut>Del</Shortcut>

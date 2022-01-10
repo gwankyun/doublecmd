@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <doublecmd>
   <History>
-    <Navigation/>
+    <Navigation>
+      <Item>C:\Users\ljqic\AppData\Roaming\doublecmd\</Item>
+      <Item>C:\Users\ljqic\AppData\Roaming\</Item>
+      <Item>C:\Users\ljqic\AppData\</Item>
+      <Item>C:\Users\ljqic\</Item>
+      <Item>C:\Users\ljqic\Documents\</Item>
+      <Item>C:\Users\ljqic\Downloads\</Item>
+      <Item>C:\Users\ljqic\Documents\GitHub\</Item>
+      <Item>d:\test\app\</Item>
+      <Item>d:\test\</Item>
+      <Item>d:\test\doc\</Item>
+      <Item>d:\test\doc\logseq\</Item>
+      <Item>d:\test\doc\CMake\</Item>
+      <Item>d:\test\doc\logseq\1\</Item>
+      <Item>C:\Users\ljqic\Documents\GitHub\CMake\</Item>
+      <Item>C:\Users\ljqic\Documents\data\</Item>
+      <Item>C:\Users\ljqic\Documents\GitHub\logseq\</Item>
+      <Item>C:\Users\</Item>
+      <Item>C:\</Item>
+      <Item>C:\Users\ljqic\Documents\GitHub\DoubleCommander\</Item>
+      <Item>d:\</Item>
+    </Navigation>
     <CommandLine/>
     <FileMask/>
     <SearchText/>
