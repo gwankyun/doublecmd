@@ -199,8 +199,8 @@
   </Toolbars>
   <MainWindow>
     <Position Save="True">
-      <Left>80</Left>
-      <Top>48</Top>
+      <Left>47</Left>
+      <Top>31</Top>
       <Width>1400</Width>
       <Height>840</Height>
       <PixelsPerInch>168</PixelsPerInch>
@@ -211,7 +211,7 @@
   <Tabs>
     <OpenedTabs>
       <Left>
-        <ActiveTab>2</ActiveTab>
+        <ActiveTab>7</ActiveTab>
         <Tab>
           <FileView Type="columns">
             <Sortings>
@@ -471,9 +471,77 @@
             </ColumnsView>
           </FileView>
         </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>2</Direction>
+                <Function>7</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="7z.dll">C:\Program Files\Double Commander\</Path>
+                  <Path Filename="test">d:\</Path>
+                  <Path Filename="doc">d:\test\</Path>
+                  <Path Filename="logseq">d:\test\doc\</Path>
+                  <Path Filename="DoubleCommander.rar">d:\test\doc\logseq\</Path>
+                  <Path Filename="empty.html_backup">C:\Users\ljqic\Downloads\</Path>
+                  <Path Filename="Documents">C:\Users\ljqic\</Path>
+                  <Path Filename="data">C:\Users\ljqic\Documents\</Path>
+                  <Path Filename="..">C:\Users\ljqic\Documents\data\</Path>
+                  <Path Filename="data">C:\Users\ljqic\Documents\</Path>
+                  <Path Filename="..">C:\Users\ljqic\Documents\data\</Path>
+                  <Path Filename="..">C:\Users\ljqic\AppData\Roaming\doublecmd\</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Windows</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>2</Direction>
+                <Function>7</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="7z.dll">C:\Program Files\Double Commander\</Path>
+                  <Path Filename="test">d:\</Path>
+                  <Path Filename="doc">d:\test\</Path>
+                  <Path Filename="logseq">d:\test\doc\</Path>
+                  <Path Filename="DoubleCommander.rar">d:\test\doc\logseq\</Path>
+                  <Path Filename="empty.html_backup">C:\Users\ljqic\Downloads\</Path>
+                  <Path Filename="Documents">C:\Users\ljqic\</Path>
+                  <Path Filename="data">C:\Users\ljqic\Documents\</Path>
+                  <Path Filename="..">C:\Users\ljqic\Documents\data\</Path>
+                  <Path Filename="data">C:\Users\ljqic\Documents\</Path>
+                  <Path Filename="..">C:\Users\ljqic\Documents\data\</Path>
+                  <Path Filename="..">C:\Users\ljqic\AppData\Roaming\doublecmd\</Path>
+                  <Path Filename="test">d:\</Path>
+                  <Path Filename="doc">d:\test\</Path>
+                  <Path Filename="logseq">d:\test\doc\</Path>
+                  <Path Filename="0001-.patch">d:\test\doc\logseq\</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Windows</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+        </Tab>
       </Left>
       <Right>
-        <ActiveTab>5</ActiveTab>
+        <ActiveTab>1</ActiveTab>
         <Tab>
           <FileView Type="columns">
             <Sortings>
@@ -521,7 +589,7 @@
                   <Path Filename="DoubleCommander">C:\Users\ljqic\Documents\GitHub\</Path>
                   <Path Filename="UniversalSingleDirectSort.lua">C:\Users\ljqic\Documents\GitHub\DoubleCommander\</Path>
                   <Path Filename="logseq">C:\Users\ljqic\Documents\GitHub\</Path>
-                  <Path Filename=".gitignore">C:\Users\ljqic\Documents\GitHub\logseq\</Path>
+                  <Path Filename="..">C:\Users\ljqic\Documents\GitHub\logseq\</Path>
                 </Paths>
               </Entry>
             </History>
@@ -566,7 +634,7 @@
             <Sortings>
               <Sorting>
                 <Direction>2</Direction>
-                <Function>7</Function>
+                <Function>2</Function>
               </Sorting>
             </Sortings>
             <History>
@@ -583,7 +651,7 @@
                   <Path Filename="DoubleCommander">C:\Users\ljqic\Documents\GitHub\</Path>
                   <Path Filename="GitHub">C:\Users\ljqic\Documents\</Path>
                   <Path Filename="Downloads">C:\Users\ljqic\</Path>
-                  <Path Filename="logseq.rar">C:\Users\ljqic\Downloads\</Path>
+                  <Path Filename="Logseq-win-x64-0.5.8+nightly.20220110.exe">C:\Users\ljqic\Downloads\</Path>
                 </Paths>
               </Entry>
             </History>
