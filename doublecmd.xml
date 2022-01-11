@@ -224,12 +224,7 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path Filename="7z.dll">C:\Program Files\Double Commander\</Path>
-                  <Path Filename="test">d:\</Path>
-                  <Path Filename="doc">d:\test\</Path>
-                  <Path Filename="logseq">d:\test\doc\</Path>
-                  <Path Filename="DoubleCommander.rar">d:\test\doc\logseq\</Path>
-                  <Path Filename="Dayz，即将到来的变化，大家准备好了么？ - 知乎 (2021_1_18 下午11_03_50).html">C:\Users\ljqic\Downloads\</Path>
+                  <Path>C:\Users\ljqic\Downloads\</Path>
                 </Paths>
               </Entry>
             </History>
@@ -250,14 +245,7 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path Filename="7z.dll">C:\Program Files\Double Commander\</Path>
-                  <Path Filename="test">d:\</Path>
-                  <Path Filename="doc">d:\test\</Path>
-                  <Path Filename="logseq">d:\test\doc\</Path>
-                  <Path Filename="DoubleCommander.rar">d:\test\doc\logseq\</Path>
-                  <Path Filename="Logseq-win-x64-0.5.7+nightly.20220103.exe">C:\Users\ljqic\Downloads\</Path>
-                  <Path Filename="0001-.patch">d:\test\doc\logseq\</Path>
-                  <Path Filename="">C:\Program Files\Double Commander\</Path>
+                  <Path>C:\Program Files\Double Commander\</Path>
                 </Paths>
               </Entry>
             </History>
@@ -278,17 +266,7 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path Filename="7z.dll">C:\Program Files\Double Commander\</Path>
-                  <Path Filename="test">d:\</Path>
-                  <Path Filename="doc">d:\test\</Path>
-                  <Path Filename="logseq">d:\test\doc\</Path>
-                  <Path Filename="DoubleCommander.rar">d:\test\doc\logseq\</Path>
-                  <Path Filename="empty.html_backup">C:\Users\ljqic\Downloads\</Path>
-                  <Path Filename="Documents">C:\Users\ljqic\</Path>
-                  <Path Filename="data">C:\Users\ljqic\Documents\</Path>
-                  <Path Filename="..">C:\Users\ljqic\Documents\data\</Path>
-                  <Path Filename="data">C:\Users\ljqic\Documents\</Path>
-                  <Path Filename="..">C:\Users\ljqic\Documents\data\</Path>
+                  <Path>C:\Users\ljqic\Documents\data\</Path>
                 </Paths>
               </Entry>
             </History>
@@ -309,18 +287,7 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path Filename="7z.dll">C:\Program Files\Double Commander\</Path>
-                  <Path Filename="test">d:\</Path>
-                  <Path Filename="doc">d:\test\</Path>
-                  <Path Filename="logseq">d:\test\doc\</Path>
-                  <Path Filename="DoubleCommander.rar">d:\test\doc\logseq\</Path>
-                  <Path Filename="empty.html_backup">C:\Users\ljqic\Downloads\</Path>
-                  <Path Filename="Documents">C:\Users\ljqic\</Path>
-                  <Path Filename="data">C:\Users\ljqic\Documents\</Path>
-                  <Path Filename="..">C:\Users\ljqic\Documents\data\</Path>
-                  <Path Filename="data">C:\Users\ljqic\Documents\</Path>
-                  <Path Filename="..">C:\Users\ljqic\Documents\data\</Path>
-                  <Path Filename="data.rar">C:\Users\ljqic\Documents\</Path>
+                  <Path>C:\Users\ljqic\Documents\</Path>
                 </Paths>
               </Entry>
             </History>
@@ -341,31 +308,7 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path Filename="7z.dll">C:\Program Files\Double Commander\</Path>
-                  <Path Filename="test">d:\</Path>
-                  <Path Filename="doc">d:\test\</Path>
-                  <Path Filename="logseq">d:\test\doc\</Path>
-                  <Path Filename="DoubleCommander.rar">d:\test\doc\logseq\</Path>
-                  <Path Filename="empty.html_backup">C:\Users\ljqic\Downloads\</Path>
-                  <Path Filename="Documents">C:\Users\ljqic\</Path>
-                  <Path Filename="data">C:\Users\ljqic\Documents\</Path>
-                  <Path Filename="..">C:\Users\ljqic\Documents\data\</Path>
-                  <Path Filename="data">C:\Users\ljqic\Documents\</Path>
-                  <Path Filename="..">C:\Users\ljqic\Documents\data\</Path>
-                  <Path Filename="data.rar">C:\Users\ljqic\Documents\</Path>
-                  <Path Filename="0001-.patch">d:\test\doc\logseq\</Path>
-                  <Path Filename="CMake">d:\test\doc\</Path>
-                  <Path Filename="0001-cmake-generator-expressions.patch">d:\test\doc\CMake\</Path>
-                  <Path Filename="logseq">d:\test\doc\</Path>
-                  <Path Filename="1">d:\test\doc\logseq\</Path>
-                  <Path Filename="..">d:\test\doc\logseq\1\</Path>
-                  <Path Filename="1">d:\test\doc\logseq\</Path>
-                  <Path Filename="..">d:\test\doc\logseq\1\</Path>
-                  <Path Filename="1">d:\test\doc\logseq\</Path>
-                  <Path Filename="0001-Double-Commander.patch">d:\test\doc\logseq\1\</Path>
-                  <Path Filename="1">d:\test\doc\logseq\</Path>
-                  <Path Filename="CMake">d:\test\doc\</Path>
-                  <Path Filename="0001-cmake-generator-expressions.patch">d:\test\doc\CMake\</Path>
+                  <Path>d:\test\doc\CMake\</Path>
                 </Paths>
               </Entry>
             </History>
@@ -386,33 +329,7 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path Filename="7z.dll">C:\Program Files\Double Commander\</Path>
-                  <Path Filename="test">d:\</Path>
-                  <Path Filename="doc">d:\test\</Path>
-                  <Path Filename="logseq">d:\test\doc\</Path>
-                  <Path Filename="DoubleCommander.rar">d:\test\doc\logseq\</Path>
-                  <Path Filename="empty.html_backup">C:\Users\ljqic\Downloads\</Path>
-                  <Path Filename="Documents">C:\Users\ljqic\</Path>
-                  <Path Filename="data">C:\Users\ljqic\Documents\</Path>
-                  <Path Filename="..">C:\Users\ljqic\Documents\data\</Path>
-                  <Path Filename="data">C:\Users\ljqic\Documents\</Path>
-                  <Path Filename="..">C:\Users\ljqic\Documents\data\</Path>
-                  <Path Filename="data.rar">C:\Users\ljqic\Documents\</Path>
-                  <Path Filename="0001-.patch">d:\test\doc\logseq\</Path>
-                  <Path Filename="CMake">d:\test\doc\</Path>
-                  <Path Filename="0001-cmake-generator-expressions.patch">d:\test\doc\CMake\</Path>
-                  <Path Filename="logseq">d:\test\doc\</Path>
-                  <Path Filename="1">d:\test\doc\logseq\</Path>
-                  <Path Filename="..">d:\test\doc\logseq\1\</Path>
-                  <Path Filename="1">d:\test\doc\logseq\</Path>
-                  <Path Filename="..">d:\test\doc\logseq\1\</Path>
-                  <Path Filename="1">d:\test\doc\logseq\</Path>
-                  <Path Filename="0001-Double-Commander.patch">d:\test\doc\logseq\1\</Path>
-                  <Path Filename="1">d:\test\doc\logseq\</Path>
-                  <Path Filename="CMake">d:\test\doc\</Path>
-                  <Path Filename="0001-cmake-generator-expressions.patch">d:\test\doc\CMake\</Path>
-                  <Path Filename="logseq">d:\test\doc\</Path>
-                  <Path Filename="0001-.patch">d:\test\doc\logseq\</Path>
+                  <Path>d:\test\doc\logseq\</Path>
                 </Paths>
               </Entry>
             </History>
@@ -433,36 +350,7 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path Filename="7z.dll">C:\Program Files\Double Commander\</Path>
-                  <Path Filename="test">d:\</Path>
-                  <Path Filename="doc">d:\test\</Path>
-                  <Path Filename="logseq">d:\test\doc\</Path>
-                  <Path Filename="DoubleCommander.rar">d:\test\doc\logseq\</Path>
-                  <Path Filename="empty.html_backup">C:\Users\ljqic\Downloads\</Path>
-                  <Path Filename="Documents">C:\Users\ljqic\</Path>
-                  <Path Filename="data">C:\Users\ljqic\Documents\</Path>
-                  <Path Filename="..">C:\Users\ljqic\Documents\data\</Path>
-                  <Path Filename="data">C:\Users\ljqic\Documents\</Path>
-                  <Path Filename="..">C:\Users\ljqic\Documents\data\</Path>
-                  <Path Filename="data.rar">C:\Users\ljqic\Documents\</Path>
-                  <Path Filename="0001-.patch">d:\test\doc\logseq\</Path>
-                  <Path Filename="CMake">d:\test\doc\</Path>
-                  <Path Filename="0001-cmake-generator-expressions.patch">d:\test\doc\CMake\</Path>
-                  <Path Filename="logseq">d:\test\doc\</Path>
-                  <Path Filename="1">d:\test\doc\logseq\</Path>
-                  <Path Filename="..">d:\test\doc\logseq\1\</Path>
-                  <Path Filename="1">d:\test\doc\logseq\</Path>
-                  <Path Filename="..">d:\test\doc\logseq\1\</Path>
-                  <Path Filename="1">d:\test\doc\logseq\</Path>
-                  <Path Filename="0001-Double-Commander.patch">d:\test\doc\logseq\1\</Path>
-                  <Path Filename="1">d:\test\doc\logseq\</Path>
-                  <Path Filename="CMake">d:\test\doc\</Path>
-                  <Path Filename="0001-cmake-generator-expressions.patch">d:\test\doc\CMake\</Path>
-                  <Path Filename="logseq">d:\test\doc\</Path>
-                  <Path Filename="0001-.patch">d:\test\doc\logseq\</Path>
-                  <Path Filename="..">d:\test\doc\</Path>
-                  <Path Filename="app">d:\test\</Path>
-                  <Path Filename="doublecmd-1.0.3.x86_64-win64-qt5.dark.7z">d:\test\app\</Path>
+                  <Path>d:\test\app\</Path>
                 </Paths>
               </Entry>
             </History>
@@ -483,18 +371,7 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path Filename="7z.dll">C:\Program Files\Double Commander\</Path>
-                  <Path Filename="test">d:\</Path>
-                  <Path Filename="doc">d:\test\</Path>
-                  <Path Filename="logseq">d:\test\doc\</Path>
-                  <Path Filename="DoubleCommander.rar">d:\test\doc\logseq\</Path>
-                  <Path Filename="empty.html_backup">C:\Users\ljqic\Downloads\</Path>
-                  <Path Filename="Documents">C:\Users\ljqic\</Path>
-                  <Path Filename="data">C:\Users\ljqic\Documents\</Path>
-                  <Path Filename="..">C:\Users\ljqic\Documents\data\</Path>
-                  <Path Filename="data">C:\Users\ljqic\Documents\</Path>
-                  <Path Filename="..">C:\Users\ljqic\Documents\data\</Path>
-                  <Path Filename="..">C:\Users\ljqic\AppData\Roaming\doublecmd\</Path>
+                  <Path>C:\Users\ljqic\AppData\Roaming\doublecmd\</Path>
                 </Paths>
               </Entry>
             </History>
@@ -515,22 +392,7 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path Filename="7z.dll">C:\Program Files\Double Commander\</Path>
-                  <Path Filename="test">d:\</Path>
-                  <Path Filename="doc">d:\test\</Path>
-                  <Path Filename="logseq">d:\test\doc\</Path>
-                  <Path Filename="DoubleCommander.rar">d:\test\doc\logseq\</Path>
-                  <Path Filename="empty.html_backup">C:\Users\ljqic\Downloads\</Path>
-                  <Path Filename="Documents">C:\Users\ljqic\</Path>
-                  <Path Filename="data">C:\Users\ljqic\Documents\</Path>
-                  <Path Filename="..">C:\Users\ljqic\Documents\data\</Path>
-                  <Path Filename="data">C:\Users\ljqic\Documents\</Path>
-                  <Path Filename="..">C:\Users\ljqic\Documents\data\</Path>
-                  <Path Filename="..">C:\Users\ljqic\AppData\Roaming\doublecmd\</Path>
-                  <Path Filename="test">d:\</Path>
-                  <Path Filename="doc">d:\test\</Path>
-                  <Path Filename="logseq">d:\test\doc\</Path>
-                  <Path Filename="0001-.patch">d:\test\doc\logseq\</Path>
+                  <Path>d:\test\doc\logseq\</Path>
                 </Paths>
               </Entry>
             </History>
@@ -554,13 +416,7 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path Filename="7z.dll">C:\Program Files\Double Commander\</Path>
-                  <Path Filename="Users">C:\</Path>
-                  <Path Filename="ljqic">C:\Users\</Path>
-                  <Path Filename="Documents">C:\Users\ljqic\</Path>
-                  <Path Filename="GitHub">C:\Users\ljqic\Documents\</Path>
-                  <Path Filename="DoubleCommander">C:\Users\ljqic\Documents\GitHub\</Path>
-                  <Path Filename="UniversalSingleDirectSort.lua">C:\Users\ljqic\Documents\GitHub\DoubleCommander\</Path>
+                  <Path>C:\Users\ljqic\Documents\GitHub\DoubleCommander\</Path>
                 </Paths>
               </Entry>
             </History>
@@ -581,15 +437,7 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path Filename="7z.dll">C:\Program Files\Double Commander\</Path>
-                  <Path Filename="Users">C:\</Path>
-                  <Path Filename="ljqic">C:\Users\</Path>
-                  <Path Filename="Documents">C:\Users\ljqic\</Path>
-                  <Path Filename="GitHub">C:\Users\ljqic\Documents\</Path>
-                  <Path Filename="DoubleCommander">C:\Users\ljqic\Documents\GitHub\</Path>
-                  <Path Filename="UniversalSingleDirectSort.lua">C:\Users\ljqic\Documents\GitHub\DoubleCommander\</Path>
-                  <Path Filename="logseq">C:\Users\ljqic\Documents\GitHub\</Path>
-                  <Path Filename="..">C:\Users\ljqic\Documents\GitHub\logseq\</Path>
+                  <Path>C:\Users\ljqic\Documents\GitHub\logseq\</Path>
                 </Paths>
               </Entry>
             </History>
@@ -610,17 +458,7 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path Filename="7z.dll">C:\Program Files\Double Commander\</Path>
-                  <Path Filename="Users">C:\</Path>
-                  <Path Filename="ljqic">C:\Users\</Path>
-                  <Path Filename="Documents">C:\Users\ljqic\</Path>
-                  <Path Filename="GitHub">C:\Users\ljqic\Documents\</Path>
-                  <Path Filename="DoubleCommander">C:\Users\ljqic\Documents\GitHub\</Path>
-                  <Path Filename="UniversalSingleDirectSort.lua">C:\Users\ljqic\Documents\GitHub\DoubleCommander\</Path>
-                  <Path Filename="logseq">C:\Users\ljqic\Documents\GitHub\</Path>
-                  <Path Filename=".gitignore">C:\Users\ljqic\Documents\GitHub\logseq\</Path>
-                  <Path Filename="CMake">C:\Users\ljqic\Documents\GitHub\</Path>
-                  <Path Filename="..">C:\Users\ljqic\Documents\GitHub\CMake\</Path>
+                  <Path>C:\Users\ljqic\Documents\GitHub\CMake\</Path>
                 </Paths>
               </Entry>
             </History>
@@ -641,17 +479,7 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path Filename="7z.dll">C:\Program Files\Double Commander\</Path>
-                  <Path Filename="Users">C:\</Path>
-                  <Path Filename="ljqic">C:\Users\</Path>
-                  <Path Filename="Documents">C:\Users\ljqic\</Path>
-                  <Path Filename="GitHub">C:\Users\ljqic\Documents\</Path>
-                  <Path Filename="DoubleCommander">C:\Users\ljqic\Documents\GitHub\</Path>
-                  <Path Filename="UniversalSingleDirectSort.lua">C:\Users\ljqic\Documents\GitHub\DoubleCommander\</Path>
-                  <Path Filename="DoubleCommander">C:\Users\ljqic\Documents\GitHub\</Path>
-                  <Path Filename="GitHub">C:\Users\ljqic\Documents\</Path>
-                  <Path Filename="Downloads">C:\Users\ljqic\</Path>
-                  <Path Filename="Logseq-win-x64-0.5.8+nightly.20220110.exe">C:\Users\ljqic\Downloads\</Path>
+                  <Path>C:\Users\ljqic\Downloads\</Path>
                 </Paths>
               </Entry>
             </History>
@@ -672,18 +500,7 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path Filename="7z.dll">C:\Program Files\Double Commander\</Path>
-                  <Path Filename="Users">C:\</Path>
-                  <Path Filename="ljqic">C:\Users\</Path>
-                  <Path Filename="Documents">C:\Users\ljqic\</Path>
-                  <Path Filename="GitHub">C:\Users\ljqic\Documents\</Path>
-                  <Path Filename="DoubleCommander">C:\Users\ljqic\Documents\GitHub\</Path>
-                  <Path Filename="UniversalSingleDirectSort.lua">C:\Users\ljqic\Documents\GitHub\DoubleCommander\</Path>
-                  <Path Filename="logseq">C:\Users\ljqic\Documents\GitHub\</Path>
-                  <Path Filename=".gitignore">C:\Users\ljqic\Documents\GitHub\logseq\</Path>
-                  <Path Filename="CMake">C:\Users\ljqic\Documents\GitHub\</Path>
-                  <Path Filename="..">C:\Users\ljqic\Documents\GitHub\CMake\</Path>
-                  <Path Filename="apply">C:\Users\ljqic\Documents\GitHub\</Path>
+                  <Path>C:\Users\ljqic\Documents\GitHub\</Path>
                 </Paths>
               </Entry>
             </History>
@@ -704,27 +521,7 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path Filename="7z.dll">C:\Program Files\Double Commander\</Path>
-                  <Path Filename="Users">C:\</Path>
-                  <Path Filename="ljqic">C:\Users\</Path>
-                  <Path Filename="Documents">C:\Users\ljqic\</Path>
-                  <Path Filename="GitHub">C:\Users\ljqic\Documents\</Path>
-                  <Path Filename="DoubleCommander">C:\Users\ljqic\Documents\GitHub\</Path>
-                  <Path Filename="UniversalSingleDirectSort.lua">C:\Users\ljqic\Documents\GitHub\DoubleCommander\</Path>
-                  <Path Filename="logseq">C:\Users\ljqic\Documents\GitHub\</Path>
-                  <Path Filename=".gitignore">C:\Users\ljqic\Documents\GitHub\logseq\</Path>
-                  <Path Filename="CMake">C:\Users\ljqic\Documents\GitHub\</Path>
-                  <Path Filename="..">C:\Users\ljqic\Documents\GitHub\CMake\</Path>
-                  <Path Filename="apply">C:\Users\ljqic\Documents\GitHub\</Path>
-                  <Path Filename="..">C:\Users\ljqic\Documents\</Path>
-                  <Path Filename="Downloads">C:\Users\ljqic\</Path>
-                  <Path Filename="..">C:\Users\ljqic\Downloads\</Path>
-                  <Path Filename="Documents">C:\Users\ljqic\</Path>
-                  <Path Filename="APEX-61M-UP_SETUP_20201110">C:\Users\ljqic\Documents\</Path>
-                  <Path Filename="AppData">C:\Users\ljqic\</Path>
-                  <Path Filename="Roaming">C:\Users\ljqic\AppData\</Path>
-                  <Path Filename="doublecmd">C:\Users\ljqic\AppData\Roaming\</Path>
-                  <Path Filename="..">C:\Users\ljqic\AppData\Roaming\doublecmd\</Path>
+                  <Path>C:\Users\ljqic\AppData\Roaming\doublecmd\</Path>
                 </Paths>
               </Entry>
             </History>
@@ -1070,7 +867,7 @@
   </Log>
   <History>
     <SearchReplaceHistory Save="True"/>
-    <DirHistory Save="True"/>
+    <DirHistory Save="False"/>
     <CmdLineHistory Save="True"/>
     <FileMaskHistory Save="True"/>
   </History>
