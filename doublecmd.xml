@@ -119,7 +119,7 @@
           <Icon>cm_changedirtoparent</Icon>
           <Hint>切换到上层文件夹</Hint>
           <Command>cm_ExecuteScript</Command>
-          <Param>%double_commander%\ChangeDirParent.lua</Param>
+          <Param>%DC_CONFIG_PATH%\script\ChangeDirParent.lua</Param>
           <Param>%"0%Ds</Param>
         </Command>
         <Command>
@@ -127,35 +127,35 @@
           <Icon>cm_opendirinnewtab</Icon>
           <Hint>在新标签打开文件夹</Hint>
           <Command>cm_ExecuteScript</Command>
-          <Param>%double_commander%\OpenDirInNewTab.lua</Param>
+          <Param>%DC_CONFIG_PATH%\script\OpenDirInNewTab.lua</Param>
         </Command>
         <Command>
           <ID>{B2F659F7-BB19-43B9-94E6-C8BC5A5701F2}</ID>
           <Icon>cm_exchange</Icon>
           <Hint>交换面板</Hint>
           <Command>cm_ExecuteScript</Command>
-          <Param>%double_commander%\Exchange.lua</Param>
+          <Param>%DC_CONFIG_PATH%\script\Exchange.lua</Param>
         </Command>
         <Command>
           <ID>{B00ADD5A-2C55-4FC2-B154-68AB3F6F8121}</ID>
           <Icon>cm_dirhotlist</Icon>
           <Hint>常用文件夹列表</Hint>
           <Command>cm_ExecuteScript</Command>
-          <Param>%double_commander%\DirHotList.lua</Param>
+          <Param>%DC_CONFIG_PATH%\script\DirHotList.lua</Param>
         </Command>
         <Command>
           <ID>{DF7558EE-74FE-4902-B125-E8ADCA8E17F9}</ID>
           <Icon>cm_universalsingledirectsort</Icon>
           <Hint>根据参数进行排序</Hint>
           <Command>cm_ExecuteScript</Command>
-          <Param>%double_commander%\UniversalSingleDirectSort.lua</Param>
+          <Param>%DC_CONFIG_PATH%\script\UniversalSingleDirectSort.lua</Param>
         </Command>
         <Command>
           <ID>{CA3D423D-0AF7-432E-8569-D830278EFAEA}</ID>
           <Icon>cm_reverseorder</Icon>
           <Hint>反向排序</Hint>
           <Command>cm_ExecuteScript</Command>
-          <Param>%double_commander%\ReverseOrder.lua</Param>
+          <Param>%DC_CONFIG_PATH%\script\ReverseOrder.lua</Param>
         </Command>
       </Row>
     </MainToolbar>
@@ -224,7 +224,7 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path>C:\Users\ljqic\Downloads\</Path>
+                  <Path Filename="">C:\Users\ljqic\Downloads\</Path>
                 </Paths>
               </Entry>
             </History>
@@ -245,7 +245,7 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path>C:\Program Files\Double Commander\</Path>
+                  <Path Filename="">C:\Program Files\Double Commander\</Path>
                 </Paths>
               </Entry>
             </History>
@@ -266,7 +266,7 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path>C:\Users\ljqic\Documents\data\</Path>
+                  <Path Filename="">C:\Users\ljqic\Documents\data\</Path>
                 </Paths>
               </Entry>
             </History>
@@ -287,7 +287,7 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path>C:\Users\ljqic\Documents\</Path>
+                  <Path Filename="">C:\Users\ljqic\Documents\</Path>
                 </Paths>
               </Entry>
             </History>
@@ -308,7 +308,7 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path>d:\test\doc\CMake\</Path>
+                  <Path Filename="">d:\test\doc\CMake\</Path>
                 </Paths>
               </Entry>
             </History>
@@ -329,7 +329,7 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path>d:\test\doc\logseq\</Path>
+                  <Path Filename="">d:\test\doc\logseq\</Path>
                 </Paths>
               </Entry>
             </History>
@@ -350,7 +350,7 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path>d:\test\app\</Path>
+                  <Path Filename="">d:\test\app\</Path>
                 </Paths>
               </Entry>
             </History>
@@ -371,7 +371,7 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path>C:\Users\ljqic\AppData\Roaming\doublecmd\</Path>
+                  <Path Filename="..">C:\Users\ljqic\AppData\Roaming\doublecmd\</Path>
                 </Paths>
               </Entry>
             </History>
@@ -392,7 +392,53 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path>d:\test\doc\logseq\</Path>
+                  <Path Filename="..">d:\test\doc\CMake\</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Windows</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>2</Direction>
+                <Function>7</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="..">d:\test\app\</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Windows</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>2</Direction>
+                <Function>7</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="..">d:\test\doc\CMake\</Path>
+                  <Path Filename="test">d:\</Path>
+                  <Path Filename="doc">d:\test\</Path>
+                  <Path Filename="logseq">d:\test\doc\</Path>
+                  <Path Filename="0001-C.patch">d:\test\doc\logseq\</Path>
                 </Paths>
               </Entry>
             </History>
@@ -403,7 +449,7 @@
         </Tab>
       </Left>
       <Right>
-        <ActiveTab>1</ActiveTab>
+        <ActiveTab>3</ActiveTab>
         <Tab>
           <FileView Type="columns">
             <Sortings>
@@ -416,7 +462,7 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path>C:\Users\ljqic\Documents\GitHub\DoubleCommander\</Path>
+                  <Path Filename="">C:\Users\ljqic\Documents\GitHub\DoubleCommander\</Path>
                 </Paths>
               </Entry>
             </History>
@@ -437,7 +483,7 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path>C:\Users\ljqic\Documents\GitHub\logseq\</Path>
+                  <Path Filename="0001-.rar">C:\Users\ljqic\Documents\GitHub\logseq\</Path>
                 </Paths>
               </Entry>
             </History>
@@ -458,28 +504,7 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path>C:\Users\ljqic\Documents\GitHub\CMake\</Path>
-                </Paths>
-              </Entry>
-            </History>
-            <ColumnsView>
-              <ColumnsSet>Windows</ColumnsSet>
-            </ColumnsView>
-          </FileView>
-        </Tab>
-        <Tab>
-          <FileView Type="columns">
-            <Sortings>
-              <Sorting>
-                <Direction>2</Direction>
-                <Function>2</Function>
-              </Sorting>
-            </Sortings>
-            <History>
-              <Entry Active="True">
-                <FileSource Type="FileSystem"/>
-                <Paths>
-                  <Path>C:\Users\ljqic\Downloads\</Path>
+                  <Path Filename="..">C:\Users\ljqic\Documents\GitHub\CMake\</Path>
                 </Paths>
               </Entry>
             </History>
@@ -500,7 +525,7 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path>C:\Users\ljqic\Documents\GitHub\</Path>
+                  <Path Filename="Logseq-win-x64-0.5.8+nightly.20220113.exe">C:\Users\ljqic\Downloads\</Path>
                 </Paths>
               </Entry>
             </History>
@@ -521,7 +546,28 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path>C:\Users\ljqic\AppData\Roaming\doublecmd\</Path>
+                  <Path Filename="">C:\Users\ljqic\Documents\GitHub\</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Windows</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>2</Direction>
+                <Function>7</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="">C:\Users\ljqic\AppData\Roaming\doublecmd\</Path>
                 </Paths>
               </Entry>
             </History>
@@ -867,7 +913,7 @@
   </Log>
   <History>
     <SearchReplaceHistory Save="True"/>
-    <DirHistory Save="False"/>
+    <DirHistory Save="True"/>
     <CmdLineHistory Save="True"/>
     <FileMaskHistory Save="True"/>
   </History>

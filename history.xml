@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <doublecmd>
   <History>
+    <Navigation>
+      <Item>d:\test\doc\logseq\</Item>
+      <Item>d:\test\doc\</Item>
+      <Item>d:\test\</Item>
+      <Item>d:\</Item>
+    </Navigation>
     <CommandLine/>
     <FileMask/>
     <SearchText/>
