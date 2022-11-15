@@ -2,10 +2,56 @@
 <doublecmd>
   <History>
     <Navigation>
-      <Item>d:\test\doc\logseq\</Item>
-      <Item>d:\test\doc\</Item>
-      <Item>d:\test\</Item>
-      <Item>d:\</Item>
+      <Item>c:\local\sm18-lazy-package\</Item>
+      <Item>e:\local\history-fs\</Item>
+      <Item>e:\local\</Item>
+      <Item>e:\local\history\</Item>
+      <Item>e:\local\history\history\</Item>
+      <Item>e:\local\dotnet\</Item>
+      <Item>c:\Users\liangjunquan\Downloads\</Item>
+      <Item>c:\Users\liangjunquan\Downloads\Downloads\</Item>
+      <Item>c:\Users\liangjunquan\Downloads\Downloads\Thinking Functionally\</Item>
+      <Item>\\192.168.0.208\download\k\</Item>
+      <Item>c:\local\sm18-lazy-package\sm18\</Item>
+      <Item>e:\P500\p500_release\PTools\</Item>
+      <Item>e:\test\3\</Item>
+      <Item>e:\test\3\.history\</Item>
+      <Item>e:\test\3\1\</Item>
+      <Item>e:\test\3\2022\</Item>
+      <Item>e:\test\</Item>
+      <Item>e:\P500\p500_release\</Item>
+      <Item>e:\P500\p500_release\scripts\device_tool\</Item>
+      <Item>e:\P500\p500_release\scripts\</Item>
+      <Item>e:\P500\p500_release\scripts\device_tool\plugins\</Item>
+      <Item>e:\P500\p500_release\PxxATEDemo\ATE自动控制--手册及库例程\python\</Item>
+      <Item>e:\P500\p500_release\PxxATEDemo\ATE自动控制--手册及库例程\</Item>
+      <Item>e:\P500\p500_release\PxxATEDemo\</Item>
+      <Item>c:\</Item>
+      <Item>e:\test\1\</Item>
+      <Item>e:\test\4\</Item>
+      <Item>e:\</Item>
+      <Item>e:\local\zlog\</Item>
+      <Item>e:\local\Test\</Item>
+      <Item>e:\local\Test\DoubleCommander\</Item>
+      <Item>e:\local\boost_1_73_0\</Item>
+      <Item>e:\local\lua_ce\</Item>
+      <Item>e:\local\lua_ce\src\</Item>
+      <Item>e:\local\ht\</Item>
+      <Item>\\192.168.0.208\download\</Item>
+      <Item>e:\local\dotnet\fs-inonide\</Item>
+      <Item>e:\local\history-fs\test\</Item>
+      <Item>e:\local\history-fs\test\.history\</Item>
+      <Item>e:\local\history-fs\test\.history\1\</Item>
+      <Item>c:\Users\liangjunquan\Downloads\bt\</Item>
+      <Item>C:\Users\liangjunquan\AppData\Roaming\Tencent\WXWork\Update\build_tools\</Item>
+      <Item>C:\Users\liangjunquan\AppData\Roaming\Tencent\WXWork\Update\build_tools\SQLitePCLRaw.Targeted,version=17.4.33006.217,productarch=x86\</Item>
+      <Item>C:\Users\liangjunquan\AppData\Roaming\Tencent\WXWork\Update\build_tools\Microsoft.VS.VC.vcvars.x64.Shortcuts,version=17.4.33006.217,language=zh-CN,productarch=neutral\</Item>
+      <Item>C:\Users\liangjunquan\AppData\Roaming\Tencent\WXWork\Update\build_tools\Microsoft.WebTools.Shared,version=17.4.326.54890,productarch=neutral\</Item>
+      <Item>C:\Users\liangjunquan\AppData\Roaming\Tencent\WXWork\Update\build_tools\Microsoft.WebView2,version=105.0.1343.27,productarch=neutral,machinearch=x86\</Item>
+      <Item>C:\Users\liangjunquan\AppData\Roaming\Tencent\WXWork\Update\build_tools\Microsoft.VC.14.34.17.4.Servicing.CrtHeaders,version=14.34.31933\</Item>
+      <Item>C:\Users\liangjunquan\AppData\Roaming\Tencent\WXWork\Update\build_tools\Microsoft.Build.Arm64,version=17.4.0.2251802,language=neutral,machinearch=arm64\</Item>
+      <Item>C:\Users\liangjunquan\AppData\Roaming\Tencent\WXWork\Update\build_tools\Microsoft.ServiceHub.Node,version=4.1.112.35408\</Item>
+      <Item>C:\Users\liangjunquan\AppData\Roaming\Tencent\WXWork\Update\build_tools\Microsoft.Build.Dependencies,version=17.4.33006.217,productarch=neutral\</Item>
     </Navigation>
     <CommandLine/>
     <FileMask/>
@@ -13,7 +59,28 @@
     <SearchTextPath/>
     <ReplaceText/>
     <ReplaceTextPath/>
-    <CreateDirectories/>
+    <CreateDirectories>
+      <Item>2022</Item>
+      <Item>1</Item>
+      <Item>ht</Item>
+      <Item>lua_ce</Item>
+      <Item>zig</Item>
+      <Item>x64</Item>
+      <Item>zip</Item>
+      <Item>vs</Item>
+      <Item>vsc</Item>
+      <Item>out</Item>
+      <Item>local</Item>
+      <Item>build-</Item>
+      <Item>.cargo</Item>
+      <Item>.rustup</Item>
+      <Item>Microsoft Visual Studio</Item>
+      <Item>CudaText</Item>
+      <Item>字體</Item>
+      <Item>Win32</Item>
+      <Item>Ptools</Item>
+      <Item>download</Item>
+    </CreateDirectories>
     <RenameNameMask/>
     <RenameExtMask/>
     <SearchDirectories/>
