@@ -1,0 +1,253 @@
+--------------- 02-01-2024, 22:05:08 ---------------
+| DC v1.1.8 beta Rev. 247 -- x86_64-Win64-win32/win64
+| Windows 11 23H2 x86_64 | PID 14560
+Unhandled exception: EInvalidOperation: Canvas‰∏çÂÖÅËÆ∏ÁîªÂõæ
+  Stack trace:
+  $00007FF647D740E4 line 1707, column 10 of include/canvas.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647D736DB line 1386, column 3 of include/canvas.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647D68871 line 242, column 12 of include/rasterimage.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647D7041F line 48, column 33 of include/canvas.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647D70345 line 26, column 3 of include/canvas.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF6481F8792 line 492, column 15 of fileviews/uthumbfileview.pas in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF6481F8520 line 548, column 9 of fileviews/uthumbfileview.pas in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647EF7345 line 4404, column 31 of grids.pas in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647EF6FC7 line 4438, column 9 of grids.pas in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647EF6D1C line 4358, column 7 of grids.pas in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647EF51D8 line 3850, column 5 of grids.pas in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647E37962 line 123, column 5 of include/customcontrol.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647E2161F line 4861, column 7 of include/wincontrol.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647E254A5 line 6840, column 23 of include/wincontrol.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647E37877 line 103, column 28 of include/customcontrol.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647C90AD1 in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647E2E6A1 line 2282, column 26 of include/control.inc in C:\Program Files\Double Commander\doublecmd.exe
+
+--------------- 02-01-2024, 22:05:09 ---------------
+| DC v1.1.8 beta Rev. 247 -- x86_64-Win64-win32/win64
+| Windows 11 23H2 x86_64 | PID 14560
+Unhandled exception: EInvalidOperation: Canvas‰∏çÂÖÅËÆ∏ÁîªÂõæ
+  Stack trace:
+  $00007FF647D740E4 line 1707, column 10 of include/canvas.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647D736DB line 1386, column 3 of include/canvas.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647D68871 line 242, column 12 of include/rasterimage.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647D7041F line 48, column 33 of include/canvas.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647D70345 line 26, column 3 of include/canvas.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF6481F8792 line 492, column 15 of fileviews/uthumbfileview.pas in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF6481F8520 line 548, column 9 of fileviews/uthumbfileview.pas in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647EF7345 line 4404, column 31 of grids.pas in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647EF6FC7 line 4438, column 9 of grids.pas in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647EF6D1C line 4358, column 7 of grids.pas in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647EF51D8 line 3850, column 5 of grids.pas in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647E37962 line 123, column 5 of include/customcontrol.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647E2161F line 4861, column 7 of include/wincontrol.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647E254A5 line 6840, column 23 of include/wincontrol.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647E37877 line 103, column 28 of include/customcontrol.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647C90AD1 in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647E2E6A1 line 2282, column 26 of include/control.inc in C:\Program Files\Double Commander\doublecmd.exe
+
+--------------- 02-01-2024, 22:05:10 ---------------
+| DC v1.1.8 beta Rev. 247 -- x86_64-Win64-win32/win64
+| Windows 11 23H2 x86_64 | PID 14560
+Unhandled exception: EInvalidOperation: Canvas‰∏çÂÖÅËÆ∏ÁîªÂõæ
+  Stack trace:
+  $00007FF647D740E4 line 1707, column 10 of include/canvas.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647D736DB line 1386, column 3 of include/canvas.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647D68871 line 242, column 12 of include/rasterimage.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647D7041F line 48, column 33 of include/canvas.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647D70345 line 26, column 3 of include/canvas.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF6481F8792 line 492, column 15 of fileviews/uthumbfileview.pas in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF6481F8520 line 548, column 9 of fileviews/uthumbfileview.pas in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647EF7345 line 4404, column 31 of grids.pas in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647EF6FC7 line 4438, column 9 of grids.pas in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647EF6D1C line 4358, column 7 of grids.pas in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647EF51D8 line 3850, column 5 of grids.pas in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647E37962 line 123, column 5 of include/customcontrol.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647E2161F line 4861, column 7 of include/wincontrol.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647E254A5 line 6840, column 23 of include/wincontrol.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647E37877 line 103, column 28 of include/customcontrol.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647C90AD1 in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647E2E6A1 line 2282, column 26 of include/control.inc in C:\Program Files\Double Commander\doublecmd.exe
+
+--------------- 02-01-2024, 22:05:11 ---------------
+| DC v1.1.8 beta Rev. 247 -- x86_64-Win64-win32/win64
+| Windows 11 23H2 x86_64 | PID 14560
+Unhandled exception: EInvalidOperation: Canvas‰∏çÂÖÅËÆ∏ÁîªÂõæ
+  Stack trace:
+  $00007FF647D740E4 line 1707, column 10 of include/canvas.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647D736DB line 1386, column 3 of include/canvas.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647D68871 line 242, column 12 of include/rasterimage.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647D7041F line 48, column 33 of include/canvas.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647D70345 line 26, column 3 of include/canvas.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF6481F8792 line 492, column 15 of fileviews/uthumbfileview.pas in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF6481F8520 line 548, column 9 of fileviews/uthumbfileview.pas in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647EF7345 line 4404, column 31 of grids.pas in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647EF6FC7 line 4438, column 9 of grids.pas in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647EF6D1C line 4358, column 7 of grids.pas in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647EF51D8 line 3850, column 5 of grids.pas in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647E37962 line 123, column 5 of include/customcontrol.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647E2161F line 4861, column 7 of include/wincontrol.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647E254A5 line 6840, column 23 of include/wincontrol.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647E37877 line 103, column 28 of include/customcontrol.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647C90AD1 in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647E2E6A1 line 2282, column 26 of include/control.inc in C:\Program Files\Double Commander\doublecmd.exe
+
+--------------- 02-01-2024, 22:05:28 ---------------
+| DC v1.1.8 beta Rev. 247 -- x86_64-Win64-win32/win64
+| Windows 11 23H2 x86_64 | PID 14560
+Unhandled exception: EInvalidOperation: Canvas‰∏çÂÖÅËÆ∏ÁîªÂõæ
+  Stack trace:
+  $00007FF647D740E4 line 1707, column 10 of include/canvas.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647D736DB line 1386, column 3 of include/canvas.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647D68871 line 242, column 12 of include/rasterimage.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647D7041F line 48, column 33 of include/canvas.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647D70345 line 26, column 3 of include/canvas.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF6481F8792 line 492, column 15 of fileviews/uthumbfileview.pas in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF6481F8520 line 548, column 9 of fileviews/uthumbfileview.pas in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647EF7345 line 4404, column 31 of grids.pas in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647EF6FC7 line 4438, column 9 of grids.pas in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647EF6D1C line 4358, column 7 of grids.pas in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647EF51D8 line 3850, column 5 of grids.pas in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647E37962 line 123, column 5 of include/customcontrol.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647E2161F line 4861, column 7 of include/wincontrol.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647E254A5 line 6840, column 23 of include/wincontrol.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647E37877 line 103, column 28 of include/customcontrol.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647C90AD1 in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647E2E6A1 line 2282, column 26 of include/control.inc in C:\Program Files\Double Commander\doublecmd.exe
+
+--------------- 02-01-2024, 22:05:45 ---------------
+| DC v1.1.8 beta Rev. 247 -- x86_64-Win64-win32/win64
+| Windows 11 23H2 x86_64 | PID 14560
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007FF647CA963A in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647CB10FE in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647CB0EEB in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647D7CCC6 in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647D9FE08 line 3473, column 3 of intfgraphics.pas in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647C9059B in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647F384C5 line 354, column 7 of win32/win32wsimglist.pp in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647F38129 line 286, column 3 of win32/win32wsimglist.pp in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647EBA904 line 401, column 3 of include/imglist.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647EBDAB7 line 1712, column 23 of include/imglist.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647EBDA45 line 1699, column 3 of include/imglist.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647CE8F45 line 2293, column 5 of forms.pp in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647DEB628 line 2288, column 3 of themes.pas in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647E741CE line 418, column 5 of include/headercontrol.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647E73D74 line 358, column 5 of include/headercontrol.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647E37962 line 123, column 5 of include/customcontrol.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647E2161F line 4861, column 7 of include/wincontrol.inc in C:\Program Files\Double Commander\doublecmd.exe
+
+--------------- 02-01-2024, 22:05:49 ---------------
+| DC v1.1.8 beta Rev. 247 -- x86_64-Win64-win32/win64
+| Windows 11 23H2 x86_64 | PID 14560
+Unhandled exception: EInvalidOperation: Canvas‰∏çÂÖÅËÆ∏ÁîªÂõæ
+  Stack trace:
+  $00007FF647D740E4 line 1707, column 10 of include/canvas.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647D736DB line 1386, column 3 of include/canvas.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647D68871 line 242, column 12 of include/rasterimage.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647D7041F line 48, column 33 of include/canvas.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647D70345 line 26, column 3 of include/canvas.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF6481F8792 line 492, column 15 of fileviews/uthumbfileview.pas in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF6481F8520 line 548, column 9 of fileviews/uthumbfileview.pas in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647EF7345 line 4404, column 31 of grids.pas in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647EF6FC7 line 4438, column 9 of grids.pas in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647EF6D1C line 4358, column 7 of grids.pas in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647EF51D8 line 3850, column 5 of grids.pas in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647E37962 line 123, column 5 of include/customcontrol.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647E2161F line 4861, column 7 of include/wincontrol.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647E254A5 line 6840, column 23 of include/wincontrol.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647E37877 line 103, column 28 of include/customcontrol.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647C90AD1 in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647E2E6A1 line 2282, column 26 of include/control.inc in C:\Program Files\Double Commander\doublecmd.exe
+
+--------------- 02-01-2024, 22:07:34 ---------------
+| DC v1.1.8 beta Rev. 247 -- x86_64-Win64-win32/win64
+| Windows 11 23H2 x86_64 | PID 14560
+Unhandled exception: EInvalidOperation: Canvas‰∏çÂÖÅËÆ∏ÁîªÂõæ
+  Stack trace:
+  $00007FF647D740E4 line 1707, column 10 of include/canvas.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647D736DB line 1386, column 3 of include/canvas.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647D68871 line 242, column 12 of include/rasterimage.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647D7041F line 48, column 33 of include/canvas.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647D70345 line 26, column 3 of include/canvas.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF6481F8792 line 492, column 15 of fileviews/uthumbfileview.pas in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF6481F8520 line 548, column 9 of fileviews/uthumbfileview.pas in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647EF7345 line 4404, column 31 of grids.pas in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647EF6FC7 line 4438, column 9 of grids.pas in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647EF6D1C line 4358, column 7 of grids.pas in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647EF51D8 line 3850, column 5 of grids.pas in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647E37962 line 123, column 5 of include/customcontrol.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647E2161F line 4861, column 7 of include/wincontrol.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647E254A5 line 6840, column 23 of include/wincontrol.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647E37877 line 103, column 28 of include/customcontrol.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647C90AD1 in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF647E2E6A1 line 2282, column 26 of include/control.inc in C:\Program Files\Double Commander\doublecmd.exe
+
+--------------- 30-01-2024, 23:46:53 ---------------
+| DC v1.1.9 beta Rev. 350 -- x86_64-Win64-win32/win64
+| Windows 11 23H2 x86_64 | PID 18280
+Unhandled exception: Exception: Failed to create win32 control, error: 1400 : Œﬁ–ßµƒ¥∞ø⁄æ‰±˙°£
+  Stack trace:
+  $00007FF79589BD8B line 219, column 18 of win32/win32wscontrols.pp in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF7958C24E2 line 489, column 3 of win32/win32wsforms.pp in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF7958474AD line 7549, column 37 of include/wincontrol.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF7956F4EAC line 31, column 5 of include/scrollingwincontrol.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF7956FD88C line 2748, column 3 of include/customform.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF7956FEA25 line 3212, column 3 of include/customform.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF795846BD7 line 7459, column 11 of include/wincontrol.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF795848141 line 7912, column 5 of include/wincontrol.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF795845212 line 6521, column 3 of include/wincontrol.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF795706CDA line 2050, column 6 of include/application.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF795843C7C line 5785, column 8 of include/wincontrol.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF795843B78 line 5842, column 8 of include/wincontrol.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF79584674D line 7217, column 6 of include/wincontrol.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF7956B0B11 in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF79584ED71 line 2287, column 24 of include/control.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF795843029 line 5433, column 28 of include/wincontrol.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF795918F3D line 4949, column 31 of grids.pas in C:\Program Files\Double Commander\doublecmd.exe
+
+--------------- 30-01-2024, 23:46:59 ---------------
+| DC v1.1.9 beta Rev. 350 -- x86_64-Win64-win32/win64
+| Windows 11 23H2 x86_64 | PID 18280
+Unhandled exception: Exception: Failed to create win32 control, error: 1400 : Œﬁ–ßµƒ¥∞ø⁄æ‰±˙°£
+  Stack trace:
+  $00007FF79589BD8B line 219, column 18 of win32/win32wscontrols.pp in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF7958C24E2 line 489, column 3 of win32/win32wsforms.pp in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF7958474AD line 7549, column 37 of include/wincontrol.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF7956F4EAC line 31, column 5 of include/scrollingwincontrol.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF7956FD88C line 2748, column 3 of include/customform.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF7956FEA25 line 3212, column 3 of include/customform.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF795846BD7 line 7459, column 11 of include/wincontrol.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF795848141 line 7912, column 5 of include/wincontrol.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF795845212 line 6521, column 3 of include/wincontrol.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF795706CDA line 2050, column 6 of include/application.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF795843C7C line 5785, column 8 of include/wincontrol.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF795843B78 line 5842, column 8 of include/wincontrol.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF79584674D line 7217, column 6 of include/wincontrol.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF7956B0B11 in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF79584ED71 line 2287, column 24 of include/control.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF795843029 line 5433, column 28 of include/wincontrol.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF795918F3D line 4949, column 31 of grids.pas in C:\Program Files\Double Commander\doublecmd.exe
+
+--------------- 30-01-2024, 23:47:05 ---------------
+| DC v1.1.9 beta Rev. 350 -- x86_64-Win64-win32/win64
+| Windows 11 23H2 x86_64 | PID 18280
+Unhandled exception: Exception: Failed to create win32 control, error: 1400 : Œﬁ–ßµƒ¥∞ø⁄æ‰±˙°£
+  Stack trace:
+  $00007FF79589BD8B line 219, column 18 of win32/win32wscontrols.pp in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF7958C24E2 line 489, column 3 of win32/win32wsforms.pp in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF7958474AD line 7549, column 37 of include/wincontrol.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF7956F4EAC line 31, column 5 of include/scrollingwincontrol.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF7956FD88C line 2748, column 3 of include/customform.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF7956FEA25 line 3212, column 3 of include/customform.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF795846BD7 line 7459, column 11 of include/wincontrol.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF795848141 line 7912, column 5 of include/wincontrol.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF795845212 line 6521, column 3 of include/wincontrol.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF795706CDA line 2050, column 6 of include/application.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF795843C7C line 5785, column 8 of include/wincontrol.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF795843B78 line 5842, column 8 of include/wincontrol.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF79584674D line 7217, column 6 of include/wincontrol.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF7956B0B11 in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF79584ED71 line 2287, column 24 of include/control.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF795843029 line 5433, column 28 of include/wincontrol.inc in C:\Program Files\Double Commander\doublecmd.exe
+  $00007FF795918F3D line 4949, column 31 of grids.pas in C:\Program Files\Double Commander\doublecmd.exe
+

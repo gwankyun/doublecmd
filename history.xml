@@ -2,88 +2,96 @@
 <doublecmd>
   <History>
     <Navigation>
-      <Item>c:\local\sm18-lazy-package\</Item>
-      <Item>e:\local\history-fs\</Item>
-      <Item>e:\local\</Item>
-      <Item>e:\local\history\</Item>
-      <Item>e:\local\history\history\</Item>
-      <Item>e:\local\dotnet\</Item>
-      <Item>c:\Users\liangjunquan\Downloads\</Item>
-      <Item>c:\Users\liangjunquan\Downloads\Downloads\</Item>
-      <Item>c:\Users\liangjunquan\Downloads\Downloads\Thinking Functionally\</Item>
-      <Item>\\192.168.0.208\download\k\</Item>
-      <Item>c:\local\sm18-lazy-package\sm18\</Item>
-      <Item>e:\P500\p500_release\PTools\</Item>
-      <Item>e:\test\3\</Item>
-      <Item>e:\test\3\.history\</Item>
-      <Item>e:\test\3\1\</Item>
-      <Item>e:\test\3\2022\</Item>
-      <Item>e:\test\</Item>
-      <Item>e:\P500\p500_release\</Item>
-      <Item>e:\P500\p500_release\scripts\device_tool\</Item>
-      <Item>e:\P500\p500_release\scripts\</Item>
-      <Item>e:\P500\p500_release\scripts\device_tool\plugins\</Item>
-      <Item>e:\P500\p500_release\PxxATEDemo\ATE自动控制--手册及库例程\python\</Item>
-      <Item>e:\P500\p500_release\PxxATEDemo\ATE自动控制--手册及库例程\</Item>
-      <Item>e:\P500\p500_release\PxxATEDemo\</Item>
-      <Item>c:\</Item>
-      <Item>e:\test\1\</Item>
-      <Item>e:\test\4\</Item>
+      <Item>c:\Users\ljqic\AppData\Roaming\doublecmd\</Item>
+      <Item>c:\Users\ljqic\AppData\Roaming\doublecmd\script\</Item>
+      <Item>c:\Users\ljqic\AppData\Roaming\</Item>
+      <Item>c:\Users\ljqic\AppData\</Item>
+      <Item>c:\Users\ljqic\</Item>
+      <Item>c:\Users\ljqic\Documents\</Item>
       <Item>e:\</Item>
-      <Item>e:\local\zlog\</Item>
-      <Item>e:\local\Test\</Item>
-      <Item>e:\local\Test\DoubleCommander\</Item>
-      <Item>e:\local\boost_1_73_0\</Item>
-      <Item>e:\local\lua_ce\</Item>
-      <Item>e:\local\lua_ce\src\</Item>
-      <Item>e:\local\ht\</Item>
-      <Item>\\192.168.0.208\download\</Item>
-      <Item>e:\local\dotnet\fs-inonide\</Item>
-      <Item>e:\local\history-fs\test\</Item>
-      <Item>e:\local\history-fs\test\.history\</Item>
-      <Item>e:\local\history-fs\test\.history\1\</Item>
-      <Item>c:\Users\liangjunquan\Downloads\bt\</Item>
-      <Item>C:\Users\liangjunquan\AppData\Roaming\Tencent\WXWork\Update\build_tools\</Item>
-      <Item>C:\Users\liangjunquan\AppData\Roaming\Tencent\WXWork\Update\build_tools\SQLitePCLRaw.Targeted,version=17.4.33006.217,productarch=x86\</Item>
-      <Item>C:\Users\liangjunquan\AppData\Roaming\Tencent\WXWork\Update\build_tools\Microsoft.VS.VC.vcvars.x64.Shortcuts,version=17.4.33006.217,language=zh-CN,productarch=neutral\</Item>
-      <Item>C:\Users\liangjunquan\AppData\Roaming\Tencent\WXWork\Update\build_tools\Microsoft.WebTools.Shared,version=17.4.326.54890,productarch=neutral\</Item>
-      <Item>C:\Users\liangjunquan\AppData\Roaming\Tencent\WXWork\Update\build_tools\Microsoft.WebView2,version=105.0.1343.27,productarch=neutral,machinearch=x86\</Item>
-      <Item>C:\Users\liangjunquan\AppData\Roaming\Tencent\WXWork\Update\build_tools\Microsoft.VC.14.34.17.4.Servicing.CrtHeaders,version=14.34.31933\</Item>
-      <Item>C:\Users\liangjunquan\AppData\Roaming\Tencent\WXWork\Update\build_tools\Microsoft.Build.Arm64,version=17.4.0.2251802,language=neutral,machinearch=arm64\</Item>
-      <Item>C:\Users\liangjunquan\AppData\Roaming\Tencent\WXWork\Update\build_tools\Microsoft.ServiceHub.Node,version=4.1.112.35408\</Item>
-      <Item>C:\Users\liangjunquan\AppData\Roaming\Tencent\WXWork\Update\build_tools\Microsoft.Build.Dependencies,version=17.4.33006.217,productarch=neutral\</Item>
+      <Item>e:\app\</Item>
+      <Item>e:\vsix\</Item>
+      <Item>c:\Program Files\</Item>
+      <Item>c:\</Item>
+      <Item>c:\Program Files\Python311\</Item>
+      <Item>c:\Users\ljqic\Downloads\</Item>
+      <Item>c:\Users\ljqic\Downloads\build_tools\</Item>
+      <Item>c:\Users\ljqic\Downloads\vsix\</Item>
+      <Item>c:\Users\ljqic\Documents\1.52版 - 可空格选中\</Item>
+      <Item>c:\local\sm18-lazy-package\sm18\</Item>
+      <Item>e:\test\</Item>
+      <Item>c:\Users\ljqic\Downloads\bt\</Item>
+      <Item>c:\Users\ljqic\Downloads\bt\patch\</Item>
+      <Item>c:\Users\ljqic\Downloads\bt\patch\data\</Item>
+      <Item>c:\Users\ljqic\Downloads\bt\17.8.6\</Item>
+      <Item>c:\Users\ljqic\Downloads\build_tools\.history\</Item>
+      <Item>c:\Users\ljqic\Downloads\vslayout\</Item>
+      <Item>c:\Users\ljqic\Documents\GitHub\CMake\build\Utilities\Sphinx\</Item>
+      <Item>c:\Users\ljqic\Documents\GitHub\CMake\build\Utilities\</Item>
+      <Item>c:\Users\ljqic\Documents\GitHub\CMake\build\</Item>
+      <Item>c:\Users\ljqic\Documents\GitHub\CMake\</Item>
+      <Item>c:\Users\ljqic\Documents\GitHub\CMake\build\Source\</Item>
+      <Item>c:\Users\ljqic\Documents\GitHub\CMake\Help\</Item>
+      <Item>c:\Users\ljqic\Downloads\點墨成金.md新\</Item>
+      <Item>c:\Users\ljqic\Documents\1.52版 - 可空格选中\暗色版本\</Item>
+      <Item>c:\Users\ljqic\Documents\圍棋\</Item>
+      <Item>c:\Users\ljqic\Downloads\軟件\</Item>
+      <Item>c:\local\sm18-lazy-package\</Item>
+      <Item>c:\Program Files\Rakudo\</Item>
+      <Item>c:\Program Files\Python38-\</Item>
+      <Item>c:\QLDownload\</Item>
+      <Item>c:\sr\</Item>
+      <Item>c:\Log\</Item>
+      <Item>c:\hls\</Item>
+      <Item>C:\Users\ljqic\Documents\SiYuan\data\</Item>
+      <Item>C:\Users\ljqic\Documents\SiYuan\</Item>
+      <Item>C:\Users\ljqic\Documents\SiYuan\history\</Item>
+      <Item>C:\Users\ljqic\Documents\SiYuan\conf\</Item>
+      <Item>C:\Users\ljqic\Documents\SiYuan\conf\appearance\</Item>
+      <Item>C:\Users\ljqic\Documents\SiYuan\conf\appearance\langs\</Item>
+      <Item>C:\Users\ljqic\Documents\SiYuan\data\snippets\</Item>
+      <Item>c:\Users\ljqic\Downloads\bt\17.8.4\</Item>
+      <Item>c:\Users\ljqic\Downloads\bt\17.8.5\</Item>
+      <Item>c:\Users\ljqic\Downloads\build_tools\Archive\</Item>
     </Navigation>
     <CommandLine/>
-    <FileMask/>
+    <FileMask>
+      <Item>pwsh.rar</Item>
+      <Item>data.rar</Item>
+      <Item>data</Item>
+    </FileMask>
+    <VolumeSize/>
+    <CreateDirectories>
+      <Item Tag="0">17.8.6</Item>
+      <Item Tag="0">vslayout</Item>
+      <Item Tag="0">17.8.5</Item>
+      <Item Tag="0">hls</Item>
+      <Item Tag="0">Pascal</Item>
+      <Item Tag="0">17.8.4</Item>
+      <Item Tag="0">元旦</Item>
+      <Item Tag="0">唐莉佳</Item>
+      <Item Tag="0">卢静</Item>
+      <Item Tag="0">朱怡欣</Item>
+      <Item Tag="0">张琼宇MVP</Item>
+      <Item Tag="0">相</Item>
+      <Item Tag="0">48送機</Item>
+      <Item Tag="0">48</Item>
+      <Item Tag="0">九月</Item>
+      <Item Tag="0">八月</Item>
+      <Item Tag="0">軟件</Item>
+      <Item Tag="0">17.8.3</Item>
+      <Item Tag="0">diff</Item>
+      <Item Tag="0">17.8.2</Item>
+    </CreateDirectories>
     <SearchText/>
     <SearchTextPath/>
     <ReplaceText/>
     <ReplaceTextPath/>
-    <CreateDirectories>
-      <Item>2022</Item>
-      <Item>1</Item>
-      <Item>ht</Item>
-      <Item>lua_ce</Item>
-      <Item>zig</Item>
-      <Item>x64</Item>
-      <Item>zip</Item>
-      <Item>vs</Item>
-      <Item>vsc</Item>
-      <Item>out</Item>
-      <Item>local</Item>
-      <Item>build-</Item>
-      <Item>.cargo</Item>
-      <Item>.rustup</Item>
-      <Item>Microsoft Visual Studio</Item>
-      <Item>CudaText</Item>
-      <Item>字體</Item>
-      <Item>Win32</Item>
-      <Item>Ptools</Item>
-      <Item>download</Item>
-    </CreateDirectories>
     <RenameNameMask/>
     <RenameExtMask/>
-    <SearchDirectories/>
+    <SearchDirectories>
+      <Item>d:\</Item>
+    </SearchDirectories>
     <SearchExcludeFiles/>
     <SearchExcludeDirectories/>
   </History>
