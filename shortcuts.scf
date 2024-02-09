@@ -437,6 +437,12 @@
         <Command>cm_ShowTabsList</Command>
       </Hotkey>
       <Hotkey>
+        <Shortcut>Ctrl+E</Shortcut>
+        <Command>cm_ExecuteToolbarItem</Command>
+        <Param>ToolBarID=TfrmOptionsToolbar</Param>
+        <Param>ToolItemID={FD2142B0-B485-43AE-BC9C-B62E34876EF9}</Param>
+      </Hotkey>
+      <Hotkey>
         <Shortcut>Del</Shortcut>
         <Command>cm_Delete</Command>
         <Control>Files Panel</Control>

@@ -171,6 +171,24 @@
           <Command>cm_ExecuteScript</Command>
           <Param>%DC_CONFIG_PATH%\script\cmd.lua</Param>
         </Command>
+        <Program>
+          <ID>{FDE798BA-55BF-49D8-9211-02F245589A19}</ID>
+          <Icon>E:\local\cpp_test\bin\startup.exe</Icon>
+          <Hint>startup</Hint>
+          <Command>E:\local\cpp_test\bin\startup.exe</Command>
+          <Params>%pt %ps</Params>
+          <StartPath>E:\local\cpp_test\bin\</StartPath>
+        </Program>
+        <Command>
+          <ID>{FD2142B0-B485-43AE-BC9C-B62E34876EF9}</ID>
+          <Icon>C:\Program Files\WinRAR\RarExtLogo.altform-unplated_targetsize-64.png</Icon>
+          <Hint>根据参数进行排序</Hint>
+          <Command>cm_ExecuteScript</Command>
+          <Param>%DC_CONFIG_PATH%\script\rar.lua</Param>
+          <Param>%Dt</Param>
+          <Param>%fs</Param>
+          <Param>%Ds</Param>
+        </Command>
       </Row>
     </MainToolbar>
     <MiddleToolbar>
@@ -264,11 +282,11 @@
   </Toolbars>
   <MainWindow>
     <Position Save="True">
-      <Left>534</Left>
-      <Top>301</Top>
-      <Width>3260</Width>
-      <Height>1687</Height>
-      <PixelsPerInch>144</PixelsPerInch>
+      <Left>0</Left>
+      <Top>0</Top>
+      <Width>1370</Width>
+      <Height>749</Height>
+      <PixelsPerInch>96</PixelsPerInch>
       <Maximized>False</Maximized>
       <Splitter>50</Splitter>
     </Position>
@@ -471,8 +489,8 @@
     <MainMenu>True</MainMenu>
     <ButtonBar Enabled="True">
       <FlatIcons>True</FlatIcons>
-      <ButtonHeight>36</ButtonHeight>
-      <IconSize>24</IconSize>
+      <ButtonHeight>24</ButtonHeight>
+      <IconSize>16</IconSize>
       <ShowCaptions>False</ShowCaptions>
       <ReportErrorWithCommands>False</ReportErrorWithCommands>
       <FilenameStyle>0</FilenameStyle>
@@ -670,14 +688,14 @@
     <ShowHiddenDimmed>False</ShowHiddenDimmed>
     <ShowMode>3</ShowMode>
     <ShowOverlays>False</ShowOverlays>
-    <Size>48</Size>
-    <DiskSize>24</DiskSize>
+    <Size>32</Size>
+    <DiskSize>16</DiskSize>
     <DiskAlpha>50</DiskAlpha>
     <ToolSize>24</ToolSize>
     <Exclude>False</Exclude>
     <ExcludeDirs/>
     <CustomIcons>0</CustomIcons>
-    <PixelsPerInch>144</PixelsPerInch>
+    <PixelsPerInch>96</PixelsPerInch>
     <ShowInMenus Enabled="False">
       <Size>16</Size>
     </ShowInMenus>
@@ -874,14 +892,14 @@
       <Unique>AE1377E4-30C8-4888-988C-D3CA8B172E47</Unique>
       <CustomView>False</CustomView>
       <FileSystem>&lt;General&gt;</FileSystem>
-      <PixelsPerInch>144</PixelsPerInch>
+      <PixelsPerInch>96</PixelsPerInch>
       <CursorBorder Enabled="False"/>
       <Columns>
         <Column>
           <Title>名称</Title>
           <Unique>3106E2F9-895D-4C53-A253-510825EE99C0</Unique>
           <FuncString>[DC().GETFILENAMENOEXT{}]</FuncString>
-          <Width>410</Width>
+          <Width>273</Width>
           <Align>0</Align>
           <Font>
             <Name>default</Name>
@@ -897,7 +915,7 @@
           <Title>扩展名</Title>
           <Unique>6E0B0ECC-7B22-42BE-8F43-7C001DA5E5C0</Unique>
           <FuncString>[DC().GETFILEEXT{}]</FuncString>
-          <Width>44</Width>
+          <Width>29</Width>
           <Align>0</Align>
           <Font>
             <Name>default</Name>
@@ -913,7 +931,7 @@
           <Title>大小</Title>
           <Unique>EE8291D4-9D4C-4E1E-8A93-129154F72393</Unique>
           <FuncString>[DC().GETFILESIZE{}]</FuncString>
-          <Width>231</Width>
+          <Width>154</Width>
           <Align>1</Align>
           <Font>
             <Name>default</Name>
@@ -929,7 +947,7 @@
           <Title>日期</Title>
           <Unique>677D54E1-F014-474E-B5E8-AAE1E23844CF</Unique>
           <FuncString>[DC().GETFILETIME{}]</FuncString>
-          <Width>120</Width>
+          <Width>80</Width>
           <Align>1</Align>
           <Font>
             <Name>default</Name>
@@ -945,7 +963,7 @@
           <Title>属性</Title>
           <Unique>1EE9B6BB-91DE-4F74-9366-BD6E80E38997</Unique>
           <FuncString>[DC().GETFILEATTR{}]</FuncString>
-          <Width>86</Width>
+          <Width>57</Width>
           <Align>0</Align>
           <Font>
             <Name>default</Name>
@@ -964,14 +982,14 @@
       <Unique>35753030-FBB2-4332-AE7D-16D9D0B38274</Unique>
       <CustomView>False</CustomView>
       <FileSystem>&lt;General&gt;</FileSystem>
-      <PixelsPerInch>144</PixelsPerInch>
+      <PixelsPerInch>96</PixelsPerInch>
       <CursorBorder Enabled="False"/>
       <Columns>
         <Column>
           <Title>名称</Title>
           <Unique>CF933E0C-E370-4AE9-BFAC-BCB3A67A358B</Unique>
           <FuncString>[DC().GETFILENAME{}]</FuncString>
-          <Width>809</Width>
+          <Width>539</Width>
           <Align>0</Align>
           <Font>
             <Name>Consolas</Name>
@@ -987,7 +1005,7 @@
           <Title>日期</Title>
           <Unique>E1FCEA7F-D4D0-4070-ABAB-9AC17F57179C</Unique>
           <FuncString>[DC().GETFILETIME{}]</FuncString>
-          <Width>338</Width>
+          <Width>225</Width>
           <Align>0</Align>
           <Font>
             <Name>Consolas</Name>
@@ -1003,7 +1021,7 @@
           <Title>类型</Title>
           <Unique>4F3B8D64-468A-4882-AFA9-678D801C1FF0</Unique>
           <FuncString>[DC().GETFILETYPE{}]</FuncString>
-          <Width>267</Width>
+          <Width>178</Width>
           <Align>0</Align>
           <Font>
             <Name>Consolas</Name>
@@ -1019,7 +1037,7 @@
           <Title>大小</Title>
           <Unique>5B3B6F70-412E-49E4-B771-A28AAAC660EA</Unique>
           <FuncString>[DC().GETFILESIZE{}]</FuncString>
-          <Width>201</Width>
+          <Width>134</Width>
           <Align>0</Align>
           <Font>
             <Name>Consolas</Name>
